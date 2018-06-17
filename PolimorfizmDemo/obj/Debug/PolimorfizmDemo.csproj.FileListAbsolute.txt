@@ -1,0 +1,6 @@
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\PolimorfizmDemo\PolimorfizmDemo\bin\Debug\PolimorfizmDemo.exe.config
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\PolimorfizmDemo\PolimorfizmDemo\bin\Debug\PolimorfizmDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\PolimorfizmDemo\PolimorfizmDemo\bin\Debug\PolimorfizmDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\PolimorfizmDemo\PolimorfizmDemo\obj\Debug\PolimorfizmDemo.csprojResolveAssemblyReference.cache
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\PolimorfizmDemo\PolimorfizmDemo\obj\Debug\PolimorfizmDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\PolimorfizmDemo\PolimorfizmDemo\obj\Debug\PolimorfizmDemo.pdb

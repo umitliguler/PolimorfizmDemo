@@ -1,7 +1,7 @@
 # PolimorfizmDemo
 
-** Polimorfizm adındanda anşalacağı gibi çokşekillilik sağlar.Çokşekilliği ,aşağıdaki kod üzerinden anlatacak olursak.Bir ana sınıfımız var,birde bu ana sınıftan türetilmiş aynı seviyede alt sınıflar var.Örneğin kodda ingiliz ve fransız sınıfları var.Her ikisininde selam ver metodu var.Fakat selam vermeleri farklı dilde.İşte her alt sınıf ana sınıfının metodunu kendine göre tekrar yazması,
-düzenlemesi çokçeşitlilik sayesinde olur. **
+**_Polimorfizm adındanda anşalacağı gibi çokşekillilik sağlar.Çokşekilliği ,aşağıdaki kod üzerinden anlatacak olursak.Bir ana sınıfımız var,birde bu ana sınıftan türetilmiş aynı seviyede alt sınıflar var.Örneğin kodda ingiliz ve fransız sınıfları var.Her ikisininde selam ver metodu var.Fakat selam vermeleri farklı dilde.İşte her alt sınıf ana sınıfının metodunu kendine göre tekrar yazması,
+düzenlemesi çokçeşitlilik sayesinde olur.**_
 
 
 ```C#
